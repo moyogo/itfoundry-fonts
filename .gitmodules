@@ -1,0 +1,42 @@
+[submodule "tillana"]
+	path = tillana
+	url = https://github.com/itfoundry/tillana
+[submodule "kalam"]
+	path = kalam
+	url = https://github.com/itfoundry/kalam
+[submodule "teko"]
+	path = teko
+	url = https://github.com/itfoundry/teko
+[submodule "sarpanch"]
+	path = sarpanch
+	url = https://github.com/itfoundry/sarpanch
+[submodule "rozhaone"]
+	path = rozhaone
+	url = https://github.com/itfoundry/rozhaone
+[submodule "rajdhani"]
+	path = rajdhani
+	url = https://github.com/itfoundry/rajdhani
+[submodule "poppins"]
+	path = poppins
+	url = https://github.com/itfoundry/poppins
+[submodule "laila"]
+	path = laila
+	url = https://github.com/itfoundry/laila
+[submodule "khand"]
+	path = khand
+	url = https://github.com/itfoundry/khand
+[submodule "karma"]
+	path = karma
+	url = https://github.com/itfoundry/karma
+[submodule "hind"]
+	path = hind
+	url = https://github.com/itfoundry/hind
+[submodule "halant"]
+	path = halant
+	url = https://github.com/itfoundry/halant
+[submodule "base-devanagari-gf"]
+	path = base-devanagari-gf
+	url = https://github.com/itfoundry/base-devanagari-gf
+[submodule "indic-test-docs"]
+	path = indic-test-docs
+	url = https://github.com/itfoundry/indic-test-docs
