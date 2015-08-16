@@ -40,3 +40,6 @@
 [submodule "indic-test-docs"]
 	path = indic-test-docs
 	url = https://github.com/itfoundry/indic-test-docs
+[submodule "hindkit"]
+	path = hindkit
+	url = https://github.com/itfoundry/hindkit
