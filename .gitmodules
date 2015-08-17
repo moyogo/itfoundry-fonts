@@ -43,3 +43,24 @@
 [submodule "hindkit"]
 	path = hindkit
 	url = https://github.com/itfoundry/hindkit
+[submodule "hind-guntur"]
+	path = hind-guntur
+	url = https://github.com/itfoundry/hind-guntur
+[submodule "hind-mysuru"]
+	path = hind-mysuru
+	url = https://github.com/itfoundry/hind-mysuru
+[submodule "hind-kochi"]
+	path = hind-kochi
+	url = https://github.com/itfoundry/hind-kochi
+[submodule "hind-madurai"]
+	path = hind-madurai
+	url = https://github.com/itfoundry/hind-madurai
+[submodule "hind-jalandhar"]
+	path = hind-jalandhar
+	url = https://github.com/itfoundry/hind-jalandhar
+[submodule "hind-vadodara"]
+	path = hind-vadodara
+	url = https://github.com/itfoundry/hind-vadodara
+[submodule "hind-siliguri"]
+	path = hind-siliguri
+	url = https://github.com/itfoundry/hind-siliguri
