@@ -73,3 +73,6 @@
 [submodule "kumar"]
 	path = kumar
 	url = https://github.com/itfoundry/kumar
+[submodule "hind-colombo"]
+	path = hind-colombo
+	url = https://github.com/itfoundry/hind-colombo
