@@ -64,3 +64,6 @@
 [submodule "hind-siliguri"]
 	path = hind-siliguri
 	url = https://github.com/itfoundry/hind-siliguri
+[submodule "kolar"]
+	path = kolar
+	url = https://github.com/itfoundry/kolar
