@@ -67,3 +67,6 @@
 [submodule "kolar"]
 	path = kolar
 	url = https://github.com/itfoundry/kolar
+[submodule "roundel"]
+	path = roundel
+	url = https://github.com/itfoundry/roundel
