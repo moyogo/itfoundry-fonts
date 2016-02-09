@@ -76,3 +76,6 @@
 [submodule "hind-colombo"]
 	path = hind-colombo
 	url = https://github.com/itfoundry/hind-colombo
+[submodule "librebaskerville"]
+	path = librebaskerville
+	url = https://github.com/itfoundry/LibreBaskerville
